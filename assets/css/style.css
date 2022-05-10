@@ -157,7 +157,7 @@ a {
 }
 
 .bg-25ab44 {
-  background-color: blue;
+  background-color: #005fb0;
 }
 
 .bg-color1 {
@@ -171,7 +171,7 @@ a {
 }
 
 .form-control:focus {
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -191,14 +191,14 @@ textarea {
   position: relative;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   z-index: 1;
 }
 
 .default-btn::before {
   position: absolute;
   content: '';
-  background-color: blue;
+  background-color: #005fb0;
   height: 100%;
   width: 100%;
   border-radius: 30px;
@@ -212,7 +212,7 @@ textarea {
 }
 
 .default-btn.active {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -251,7 +251,7 @@ textarea {
 
 .read-more-btn:hover {
   letter-spacing: 1px;
-  color: blue;
+  color: #005fb0;
 }
 
 /*Section-title
@@ -270,7 +270,7 @@ textarea {
 }
 
 .section-title .top-title {
-  color: blue;
+  color: #005fb0;
   font-size: 16px;
   font-weight: 500;
   display: inline-block;
@@ -325,7 +325,7 @@ Top Header Area Style
 .tob-header-area::before {
   position: absolute;
   content: '';
-  background-color: blue;
+  background-color: #005fb0;
   top: 0;
   left: 0;
   height: 100%;
@@ -413,7 +413,7 @@ Top Header Area Style
   position: absolute;
   left: 0;
   top: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .heder-right-content ul li .language::before {
@@ -438,7 +438,7 @@ Top Header Area Style
 }
 
 .heder-right-content ul li .social-content ul li a:hover {
-  color: blue;
+  color: #005fb0;
 }
 
 /*
@@ -541,7 +541,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item a:hover, .desktop-nav .navbar .navbar-nav .nav-item a:focus, .desktop-nav .navbar .navbar-nav .nav-item a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item a i {
@@ -560,7 +560,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item:hover a, .desktop-nav .navbar .navbar-nav .nav-item:focus a, .desktop-nav .navbar .navbar-nav .nav-item.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -613,7 +613,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -648,7 +648,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -664,7 +664,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -680,7 +680,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -696,7 +696,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -712,7 +712,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -742,7 +742,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -752,7 +752,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -762,7 +762,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -772,7 +772,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -782,7 +782,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: blue;
+  color: #005fb0;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -830,7 +830,7 @@ Navbar Area Style
 .desktop-nav .navbar .others-options ul li .call-now i {
   position: absolute;
   font-size: 40px;
-  color: blue;
+  color: #005fb0;
   left: 0;
   top: 2px;
 }
@@ -883,7 +883,7 @@ Others Option For Responsive Area Style
   margin: 0 2px;
   -webkit-transition: all ease .5s;
   transition: all ease .5s;
-  background-color: blue;
+  background-color: #005fb0;
 }
 
 .others-option-for-responsive .dot-menu:hover .inner .circle {
@@ -949,7 +949,7 @@ Others Option For Responsive Area Style
 .others-option-for-responsive .others-options ul li .call-now i {
   position: absolute;
   font-size: 40px;
-  color: blue;
+  color: #005fb0;
   left: 0;
   top: 3px;
 }
@@ -1067,7 +1067,7 @@ Preloader Style
 .preloader-area {
   position: fixed;
   z-index: 999999;
-  background-color: blue;
+  background-color: #005fb0;
   width: 100%;
   height: 100%;
   text-align: center;
@@ -1289,7 +1289,7 @@ Banner Area Style
 
 .banner-content span {
   font-size: 16px;
-  color: blue;
+  color: #005fb0;
   display: inline-block;
   margin-bottom: 15px;
 }
@@ -1304,7 +1304,7 @@ Banner Area Style
 }
 
 .banner-content .select-content {
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   padding: 4px;
   border-radius: 30px;
   margin-bottom: 40px;
@@ -1341,7 +1341,7 @@ Banner Area Style
 .banner-content .select-content ul li:hover {
   background-color: #ffffff;
   border-radius: 30px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .banner-content .select-content ul li:hover:last-child {
@@ -1357,12 +1357,12 @@ Banner Area Style
 }
 
 .banner-content .select-content ul li .src-btn {
-  background-color: blue;
+  background-color: #005fb0;
   border: none;
   padding: 13px 20px;
   color: #ffffff;
   border-radius: 30px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
 }
@@ -1406,7 +1406,7 @@ Banner Area Style
 .banner-content .feature ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
   font-size: 16px;
 }
 
@@ -1421,7 +1421,7 @@ Banner Area Style
           transform: translateY(-50%);
   left: -100px;
   background-color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   height: 40px;
   width: 40px;
   line-height: 43px;
@@ -1450,9 +1450,9 @@ Banner Area Style
 }
 
 .banner-slider.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .banner-slider2 {
@@ -1498,8 +1498,8 @@ Banner Area Style
 }
 
 .banner-slider2.owl-theme .owl-dots .owl-dot:hover span, .banner-slider2.owl-theme .owl-dots .owl-dot.active span {
-  background-color: blue;
-  border-color: blue;
+  background-color: #005fb0;
+  border-color: #005fb0;
   color: #ffffff;
 }
 
@@ -1557,7 +1557,7 @@ Feature Area Style
 }
 
 .feature-left-content .feature-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   display: inline-block;
   font-size: 15px;
@@ -1608,7 +1608,7 @@ Feature Area Style
 }
 
 .single-features-card:hover .icon i {
-  color: blue;
+  color: #005fb0;
 }
 
 .single-features-card .read-more-btn {
@@ -1632,7 +1632,7 @@ Feature Area Style
   bottom: 30px;
   left: -130px;
   background-color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   height: 40px;
   width: 40px;
   line-height: 43px;
@@ -1660,9 +1660,9 @@ Feature Area Style
 }
 
 .feature-slider.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 /*
@@ -1688,7 +1688,7 @@ About Area Style
 .about-img .experience {
   max-width: 250px;
   padding: 30px;
-  background-color: blue;
+  background-color: #005fb0;
   position: absolute;
   bottom: 40px;
   right: 0;
@@ -1715,7 +1715,7 @@ About Area Style
 }
 
 .about-content .about-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   display: inline-block;
   font-size: 15px;
@@ -1747,7 +1747,7 @@ About Area Style
   position: absolute;
   left: 0;
   top: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .about-content .list ul li p {
@@ -1775,7 +1775,7 @@ About Area Style
 
 .about-content.style .list2 .about-card .icon {
   font-size: 35px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   color: #111111;
   height: 90px;
   width: 90px;
@@ -1806,9 +1806,9 @@ About Area Style
 .about-content.style .list2 .about-card:hover .icon {
   -webkit-transform: scale(1) rotate(10deg);
           transform: scale(1) rotate(10deg);
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .about-content.style-3 .about-title p {
@@ -1943,7 +1943,7 @@ Solution Area Style
 .single-solution-card .solution-img .icon a {
   font-size: 24px;
   background-color: #ffffff;
-  color: blue;
+  color: #005fb0;
   text-align: center;
   height: 60px;
   width: 60px;
@@ -1960,7 +1960,7 @@ Solution Area Style
 }
 
 .single-solution-card .solution-img .icon a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -2014,7 +2014,7 @@ Solution Area Style
 Services Area Style
 ======================================================*/
 .services-content span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   margin-bottom: 10px;
   display: inline-block;
@@ -2079,15 +2079,15 @@ Services Area Style
 }
 
 .single-services-card:hover {
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .single-services-card:hover i {
-  color: blue;
+  color: #005fb0;
 }
 
 .single-services-card:hover .default-btn {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -2127,7 +2127,7 @@ Services Area Style
   bottom: 30px;
   left: -130px;
   background-color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   height: 40px;
   width: 40px;
   line-height: 43px;
@@ -2155,9 +2155,9 @@ Services Area Style
 }
 
 .services-slider.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .services-details .top-image {
@@ -2208,7 +2208,7 @@ Services Area Style
 .services-details .this-services .list li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .services-details .this-services .list li:last-child p {
@@ -2278,7 +2278,7 @@ Choose Area Style
   left: 0;
   right: 0;
   z-index: -1;
-  background-color: blue;
+  background-color: #005fb0;
   height: 82%;
   border-radius: 10px 10px 40px 40px;
 }
@@ -2325,7 +2325,7 @@ Choose Area Style
 }
 
 .choose-us-bg2 {
-  background-color: blue;
+  background-color: #005fb0;
   padding-left: 100px;
   padding-right: 100px;
   border-radius: 40px 40px 0 0;
@@ -2336,7 +2336,7 @@ Choose Area Style
 }
 
 .choose-us-bg2 .choose-img .address ul li i {
-  color: blue;
+  color: #005fb0;
   background: rgba(37, 171, 68, 0.1);
 }
 
@@ -2399,7 +2399,7 @@ Choose Area Style
 
 .choose-img .address {
   max-width: 270px;
-  background-color: blue;
+  background-color: #005fb0;
   padding: 30px;
   border-radius: 40px 10px;
   position: absolute;
@@ -2432,7 +2432,7 @@ Choose Area Style
   display: inline-block;
   text-align: center;
   background-color: #ffffff;
-  color: blue;
+  color: #005fb0;
   position: absolute;
   left: 0;
   top: 50%;
@@ -2457,7 +2457,7 @@ Choose Area Style
 }
 
 .choose-content .choose-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 15px;
   margin-bottom: 15px;
@@ -2493,7 +2493,7 @@ Choose Area Style
 .choose-content .list1 ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .choose-content .list1 ul li:last-child {
@@ -2516,7 +2516,7 @@ Choose Area Style
 .choose-content .list2 ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .choose-content .list2 ul li:last-child {
@@ -2586,7 +2586,7 @@ Review Area Style
 }
 
 .single-riview-card:hover .profile i {
-  color: blue;
+  color: #005fb0;
 }
 
 .testimonial-content {
@@ -2647,7 +2647,7 @@ Review Area Style
 }
 
 .testimonial-slider2.owl-theme .owl-dots .owl-dot span {
-  background-color: blue;
+  background-color: #005fb0;
   margin-left: 15px;
 }
 
@@ -2660,7 +2660,7 @@ Review Area Style
   content: '';
   height: 18px;
   width: 18px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   border-radius: 100%;
   top: -4px;
   left: -4px;
@@ -2699,7 +2699,7 @@ Review Area Style
 .testimonial-img-content .icon a {
   font-size: 24px;
   background-color: #ffffff;
-  color: blue;
+  color: #005fb0;
   text-align: center;
   height: 60px;
   width: 60px;
@@ -2715,7 +2715,7 @@ Review Area Style
 }
 
 .testimonial-img-content .icon a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -2836,7 +2836,7 @@ Blog Area Style
 .single-blog-card .blog-content .date-admin ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .single-blog-card .blog-content .date-admin ul li a {
@@ -2851,7 +2851,7 @@ Blog Area Style
 }
 
 .single-blog-card .blog-content h3:hover {
-  color: blue;
+  color: #005fb0;
 }
 
 .single-blog-card .blog-content p {
@@ -2914,7 +2914,7 @@ Blog Area Style
 .details .details-content .admin-and-date li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .details .details-content .admin-and-date li a {
@@ -2939,7 +2939,7 @@ Blog Area Style
   padding: 30px;
   border-radius: 10px;
   margin-bottom: 30px;
-  border-left: 2px solid blue;
+  border-left: 2px solid #005fb0;
 }
 
 .details .details-content .blog-quote span {
@@ -2952,7 +2952,7 @@ Blog Area Style
   content: '';
   height: 1px;
   width: 30px;
-  background-color: blue;
+  background-color: #005fb0;
   left: 0;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -3003,7 +3003,7 @@ Blog Area Style
 }
 
 .details .details-content .tags ul li a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3043,7 +3043,7 @@ Blog Area Style
 }
 
 .details .next-and-prev ul li a:hover {
-  color: blue;
+  color: #005fb0;
   letter-spacing: 1px;
 }
 
@@ -3108,7 +3108,7 @@ Blog Area Style
 
 .search-content .form-group .src-btn i {
   font-size: 24px;
-  color: blue;
+  color: #005fb0;
 }
 
 .popular-post {
@@ -3152,7 +3152,7 @@ Blog Area Style
 }
 
 .popular-post .popular-card h4:hover {
-  color: blue;
+  color: #005fb0;
 }
 
 .popular-post .popular-card .date {
@@ -3163,7 +3163,7 @@ Blog Area Style
 .popular-post .popular-card .date i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .popular-post .popular-card:last-child {
@@ -3205,11 +3205,11 @@ Blog Area Style
 .categories ul li a i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .categories ul li a:hover p {
-  color: blue;
+  color: #005fb0;
 }
 
 .categories ul li:last-child {
@@ -3258,7 +3258,7 @@ Blog Area Style
 }
 
 .tag-content ul li a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3278,7 +3278,7 @@ Advice Area Style
 }
 
 .advice-content .advice-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 15px;
   margin-bottom: 15px;
@@ -3313,7 +3313,7 @@ Advice Area Style
 .advice-content .list ul li i {
   font-size: 22px;
   background-color: #f1f1f1;
-  color: blue;
+  color: #005fb0;
   height: 50px;
   width: 50px;
   line-height: 50px;
@@ -3341,7 +3341,7 @@ Advice Area Style
 }
 
 .advice-content .list ul li:hover i {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3454,7 +3454,7 @@ Doctor Area Style
 }
 
 .single-doctor-card .social-content ul li a:hover {
-  color: blue;
+  color: #005fb0;
 }
 
 .single-doctor-card .social-content ul li:last-child {
@@ -3504,7 +3504,7 @@ Doctor Area Style
 }
 
 .single-doctor-card.style .doctor-img .social-content ul li a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3565,7 +3565,7 @@ Doctor Area Style
 }
 
 .single-doctor-card.style3 .doctor-img .social-content ul li a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3589,7 +3589,7 @@ Doctor Area Style
 }
 
 .single-doctor-card.style4 .social-content ul li a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -3602,7 +3602,7 @@ Doctor Area Style
   bottom: 30px;
   left: -130px;
   background-color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   height: 40px;
   width: 40px;
   line-height: 43px;
@@ -3630,9 +3630,9 @@ Doctor Area Style
 }
 
 .doctor-slider.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .doctor-slider2 {
@@ -3646,7 +3646,7 @@ Doctor Area Style
           transform: translateY(-50%);
   left: -100px;
   background-color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   height: 40px;
   width: 40px;
   line-height: 43px;
@@ -3675,9 +3675,9 @@ Doctor Area Style
 }
 
 .doctor-slider2.owl-theme .owl-nav [class*=owl-]:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 /*
@@ -3688,7 +3688,7 @@ Contact Doctor Area Style
 }
 
 .contact-doctor-contain .contact-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 16px;
   margin-bottom: 15px;
@@ -3797,11 +3797,11 @@ Footer Doctor Area Style
 }
 
 .quick-link ul li:hover i {
-  color: blue;
+  color: #005fb0;
 }
 
 .quick-link ul li:hover p {
-  color: blue;
+  color: #005fb0;
 }
 
 .helpful-link {
@@ -3826,7 +3826,7 @@ Footer Doctor Area Style
 }
 
 .helpful-link ul li span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   padding-left: 5px;
   display: inline-block;
@@ -3899,7 +3899,7 @@ Footer Doctor Area Style
 }
 
 .instragram .instragram-img .icon i {
-  color: blue;
+  color: #005fb0;
   font-size: 20px;
   font-weight: 700;
 }
@@ -3914,7 +3914,7 @@ Footer Doctor Area Style
 }
 
 .copyright .copy p a {
-  color: blue;
+  color: #005fb0;
 }
 
 .copyright .social-content {
@@ -3946,7 +3946,7 @@ Footer Doctor Area Style
 }
 
 .copyright .social-content ul li a:hover {
-  color: blue;
+  color: #005fb0;
 }
 
 /*
@@ -3968,7 +3968,7 @@ Work Area Style
 }
 
 .work-left-content .work-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 15px;
   margin-bottom: 15px;
@@ -4100,7 +4100,7 @@ Work Area Style
 .follow-image-content .icon a {
   font-size: 24px;
   background-color: #ffffff;
-  color: blue;
+  color: #005fb0;
   text-align: center;
   height: 60px;
   width: 60px;
@@ -4116,7 +4116,7 @@ Work Area Style
 }
 
 .follow-image-content .icon a:hover {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -4185,7 +4185,7 @@ Provide Area Style
 
 .single-provide-card .provide-content .icon {
   font-size: 35px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   color: #111111;
   height: 90px;
   width: 90px;
@@ -4217,9 +4217,9 @@ Provide Area Style
 .single-provide-card:hover .provide-content .icon {
   -webkit-transform: scale(1) rotate(10deg);
           transform: scale(1) rotate(10deg);
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 /*
@@ -4254,7 +4254,7 @@ Testimonial Area Style
 
 .single-testimonial-card .top-content i {
   font-size: 35px;
-  color: blue;
+  color: #005fb0;
 }
 
 .single-testimonial-card .top-content::before {
@@ -4300,7 +4300,7 @@ Testimonial Area Style
 }
 
 .single-testimonial-card:hover .clients-profile img {
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .single-testimonial-card.style3 {
@@ -4334,11 +4334,11 @@ Testimonial Area Style
 }
 
 .single-testimonial-card.style3:hover {
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
 }
 
 .testimonial-slider.owl-theme .owl-dots .owl-dot span {
-  background-color: blue;
+  background-color: #005fb0;
   margin-left: 15px;
 }
 
@@ -4351,7 +4351,7 @@ Testimonial Area Style
   content: '';
   height: 18px;
   width: 18px;
-  border: 1px solid blue;
+  border: 1px solid #005fb0;
   border-radius: 100%;
   top: -4px;
   left: -4px;
@@ -4376,7 +4376,7 @@ Appoinment Area Style
 }
 
 .appoinment-content span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 15px;
   margin-bottom: 15px;
@@ -4443,7 +4443,7 @@ Appoinment Area Style
 }
 
 .information .gender ul li .form-check-input:checked {
-  background-color: blue;
+  background-color: #005fb0;
 }
 
 .information .default-btn {
@@ -4468,7 +4468,7 @@ Faq Area Style
 }
 
 .faq-title span {
-  color: blue;
+  color: #005fb0;
   font-weight: 500;
   font-size: 16px;
   margin-bottom: 15px;
@@ -4561,7 +4561,7 @@ Portfolio Area Style
   right: 0;
   top: 0;
   height: 80%;
-  background-color: blue;
+  background-color: #005fb0;
   border-radius: 10px 10px 40px 40px;
 }
 
@@ -4726,7 +4726,7 @@ Portfolio Area Style
 .about-the-project .list li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 .about-the-project .list li:last-child p {
@@ -4855,7 +4855,7 @@ Pricing Area Style
 
 .single-pricing-card .list ul li i {
   position: absolute;
-  color: blue;
+  color: #005fb0;
   left: 0;
   top: 0;
 }
@@ -4875,7 +4875,7 @@ Pricing Area Style
 }
 
 .single-pricing-card:hover .default-btn {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -4886,7 +4886,7 @@ Pricing Area Style
 }
 
 .single-pricing-card.active .default-btn {
-  background-color: blue;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -4924,7 +4924,7 @@ Page Header Area Style
 
 .page-banner-content ul li a {
   text-decoration: none;
-  color: blue;
+  color: #005fb0;
 }
 
 .page-banner-content ul li::before {
@@ -4970,7 +4970,7 @@ Contact Area Style
 }
 
 .contact-area .contact-form .text-danger {
-  color: blue;
+  color: #005fb0;
   font-size: 16px;
   margin-top: 7px;
 }
@@ -5007,7 +5007,7 @@ Error Area Style
   display: inline-block;
   line-height: 1;
   margin-right: 30px;
-  color: blue;
+  color: #005fb0;
   -webkit-animation: movebounce 5s linear infinite;
           animation: movebounce 5s linear infinite;
 }
@@ -5058,7 +5058,7 @@ Login Area Style
   content: '';
   height: 2px;
   width: 70px;
-  background-color: blue;
+  background-color: #005fb0;
   top: 43px;
 }
 
@@ -5071,7 +5071,7 @@ Login Area Style
 }
 
 .login .form-check .form-check-input:checked {
-  background-color: blue;
+  background-color: #005fb0;
 }
 
 .login .form-check .form-check-input:focus {
@@ -5115,7 +5115,7 @@ Register Area Style
   content: '';
   height: 2px;
   width: 70px;
-  background-color: blue;
+  background-color: #005fb0;
   top: 43px;
 }
 
@@ -5152,7 +5152,7 @@ Password Area Style
   content: '';
   height: 2px;
   width: 70px;
-  background-color: blue;
+  background-color: #005fb0;
   top: 43px;
 }
 
@@ -5203,7 +5203,7 @@ Privacy Policy Style
 .privacy-content .list ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 /*
@@ -5245,7 +5245,7 @@ Terms & Condition Style
 .condition-content .list ul li i {
   position: absolute;
   left: 0;
-  color: blue;
+  color: #005fb0;
 }
 
 /*
@@ -5305,7 +5305,7 @@ Coming Soon Style
   font-weight: 700;
   height: 100px;
   width: 100px;
-  border: 6px double blue;
+  border: 6px double #005fb0;
   border-radius: 50px 50px 0px 0px;
   margin-bottom: 30px;
   color: #ffffff;
@@ -5314,7 +5314,7 @@ Coming Soon Style
 .coming-soon-area .coming-soon .list ul li span {
   font-size: 15px;
   font-weight: 500;
-  color: blue;
+  color: #005fb0;
 }
 
 .coming-soon-area .coming-soon .newsletter-form {
@@ -5363,7 +5363,7 @@ Go To Top Style
   cursor: pointer;
   top: 87%;
   right: -10%;
-  background-color: blue;
+  background-color: #005fb0;
   z-index: 4;
   width: 50px;
   text-align: center;
@@ -5405,7 +5405,7 @@ Go To Top Style
   height: 100%;
   border-radius: 100%;
   z-index: -1;
-  background-color: blue;
+  background-color: #005fb0;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: 0.5s;
@@ -5467,5 +5467,32 @@ Go To Top Style
   right: 3%;
   top: 93%;
 }
+/*for Demo Only*/
+.demo-row {
+  background-color: #005fb0;
+  padding: 50px 0;
+}
 
+
+/*Implement*/
+.sponsor-feature {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    min-height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px 0;
+}
+
+#id-sponsors .carousel {
+    margin-bottom: 20px;
+}
+#id-sponsors .item {
+    padding-bottom: 20px;
+}
+#id-sponsors .carousel-indicators {
+    bottom: -25px;
+}
 /*# sourceMappingURL=style.css.map */
