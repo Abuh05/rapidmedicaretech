@@ -3987,6 +3987,9 @@ Work Area Style
 .work-left-content .default-btn {
   margin-bottom: 40px;
 }
+.work-area .default-btn{
+  border: 1px solid #ffffff;
+}
 
 .special-follow {
   margin-right: -120px;
