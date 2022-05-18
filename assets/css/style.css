@@ -1064,7 +1064,41 @@ Others Option For Responsive Area Style
 /*
 Preloader Style
 ======================================================*/
-.preloader-area {
+.loader {
+  position: fixed;
+  z-index: 99;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgb(76, 6, 238);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader > img {
+  width: 100px;
+}
+
+.loader.hidden {
+  animation: fadeOut 10s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeOut {
+  100% {
+      opacity: 0;
+      visibility: hidden;
+  }
+}
+
+.thumb {
+  height: 100px;
+  border: 1px solid rgb(255, 255, 255);
+  margin: 10px;
+}
+/* .preloader-area {
   position: fixed;
   z-index: 999999;
   background-color: #005fb0;
@@ -1075,7 +1109,6 @@ Preloader Style
   right: 0;
   top: 0;
 }
-
 .preloader-area .spinner {
   width: 4em;
   height: 4em;
@@ -1092,30 +1125,6 @@ Preloader Style
   margin-left: auto;
   margin-right: auto;
 }
-
-.preloader-area .spinner .disc {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border-radius: 100%;
-  border: 0.3em dotted #ffffff;
-}
-
-.preloader-area .spinner .disc:nth-child(1) {
-  -webkit-animation: rotate 12s linear infinite;
-          animation: rotate 12s linear infinite;
-}
-
-.preloader-area .spinner .disc:nth-child(2) {
-  -webkit-animation: rotateDisc2 12s linear infinite;
-          animation: rotateDisc2 12s linear infinite;
-}
-
-.preloader-area .spinner .disc:nth-child(3) {
-  -webkit-animation: rotateDisc3 12s linear infinite;
-          animation: rotateDisc3 12s linear infinite;
-}
-
 .preloader-area .spinner .inner {
   width: 100%;
   height: 100%;
@@ -1223,7 +1232,8 @@ Preloader Style
     -webkit-transform: rotateY(90deg) rotateZ(360deg);
             transform: rotateY(90deg) rotateZ(360deg);
   }
-}
+} */
+/*  */
 
 /*
 Banner Area Style

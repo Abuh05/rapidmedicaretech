@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  },
+  "name": "rapidmedicaretech",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "compile:css": "node-sass css/style.scss css/responsive.scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abuh05/rapidmedicaretech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abuh05/rapidmedicaretech/issues"
+  },
+  "homepage": "https://github.com/Abuh05/rapidmedicaretech#readme"
+}
