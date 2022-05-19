@@ -233,7 +233,7 @@
             disableOn: 100,
             type: 'iframe',
             mainClass: 'mfp-fade',
-            removalDelay: 200,
+            removalDelay: 500,
             preloader: false,
             fixedContentPos: false
         });
