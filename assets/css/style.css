@@ -5370,3 +5370,21 @@ Go To Top Style
     bottom: -25px;
 }
 /*# sourceMappingURL=style.css.map */
+@media only screen and (max-width: 767px) {
+  .mobile-responsive-nav .mobile-responsive-menu.mean-container .meanmenu-reveal .meanclose a {
+      top: 8px;
+      padding: 0;
+      width: 35px;
+      height: 30px;
+      padding-top: 5px;
+      color: #005fb0 !important;
+}
+span {
+  background: #005fb0 !important;
+  height: 4px;
+  margin-top: -6px;
+  border-radius: 0;
+  position: relative;
+  top: 8px;
+}
+}
