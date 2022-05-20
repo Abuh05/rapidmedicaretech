@@ -446,8 +446,8 @@ Navbar Area Style
 ======================================================*/
 .navbar-area {
   position: relative;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .navbar-area.is-sticky {
@@ -5454,7 +5454,10 @@ span {
 @media only screen and (max-width: 991px) {
   .navbar-area {
       background-color:  #005fb0 !important;
+      padding-top: 10px !important;
+      padding-bottom: 10px!important;
       }
+      
       .con-sub{ 
         width: 80%;
         margin: auto;
