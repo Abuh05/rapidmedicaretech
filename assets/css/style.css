@@ -5439,6 +5439,18 @@ span {
   font-weight: 700;
 }
 }
+
+
+@media only screen and (max-width: 489px) {
+      .con-sub{ 
+        width: 100%;
+        margin: auto;
+      }
+      .con-sub h3{
+        margin-top: 50px;
+      }
+
+    }
 @media only screen and (max-width: 991px) {
   .navbar-area {
       background-color:  #005fb0 !important;
@@ -5450,4 +5462,5 @@ span {
       .con-sub h3{
         margin-top: 50px;
       }
+
     }
