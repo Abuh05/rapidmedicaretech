@@ -212,7 +212,7 @@ textarea {
 }
 
 .default-btn.active {
-  background-color: #000000;
+  background-color: #005fb0;
   color: #ffffff;
 }
 
@@ -477,7 +477,7 @@ Navbar Area Style
 }
 
 .nav-bg-1 {
-  background-color: blue;
+  background-color: #005fb0;
 }
 
 .desktop-nav {
@@ -541,7 +541,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item a:hover, .desktop-nav .navbar .navbar-nav .nav-item a:focus, .desktop-nav .navbar .navbar-nav .nav-item a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item a i {
@@ -2256,7 +2256,7 @@ Choose Area Style
 }
 
 .choose-us-bg2 .choose-content .default-btn:hover {
-  background-color: #111111;
+  background-color: #005fb0;
 }
 
 .choose-img {
@@ -5369,6 +5369,32 @@ Go To Top Style
 #id-sponsors .carousel-indicators {
     bottom: -25px;
 }
+.sub{
+  padding: 60px; 
+  background-color: #005fb0; 
+  margin-bottom: 50px;
+}
+.con-sub{ 
+  width: 50%;
+  margin: auto;
+}
+.con-sub h1, h3{
+  font-family: "B612", sans-serif;
+  color: white;
+  font-size: 30px;
+}
+.con-sub h1{
+  color: white;
+}
+.con-sub p{
+  font-family: "B612", sans-serif;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+}
+.con-sub ul{
+  color: white;
+}
 /*# sourceMappingURL=style.css.map */
 @media only screen and (max-width: 767px) {
   .mobile-responsive-nav .mobile-responsive-menu.mean-container .meanmenu-reveal .meanclose a {
@@ -5386,6 +5412,13 @@ span {
   border-radius: 0;
   position: relative;
   top: 8px;
+}
+.con-sub{ 
+  width: 100%;
+  margin-right: 50px;
+}
+.con-sub h3{
+  margin-top: 50px;
 }
 }
 @media only screen and (max-width: 991px) {
