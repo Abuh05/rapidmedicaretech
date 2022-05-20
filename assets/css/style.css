@@ -5375,13 +5375,13 @@ Go To Top Style
   margin-bottom: 50px;
 }
 .con-sub{ 
-  width: 50%;
+  width: 30%;
   margin: auto;
 }
 .con-sub h1, h3{
   font-family: "B612", sans-serif;
   color: white;
-  font-size: 30px;
+  font-size: 22px;
 }
 .con-sub h1{
   color: white;
@@ -5389,7 +5389,7 @@ Go To Top Style
 .con-sub p{
   font-family: "B612", sans-serif;
   color: white;
-  font-size: 30px;
+  font-size: 22px;
   font-weight: 700;
 }
 .con-sub ul{
@@ -5415,14 +5415,39 @@ span {
 }
 .con-sub{ 
   width: 100%;
-  margin-right: 50px;
+  margin: auto;
 }
 .con-sub h3{
   margin-top: 50px;
+}
+.con-sub{ 
+  width: 50%;
+  margin: auto;
+}
+.con-sub h1, h3{
+  font-family: "B612", sans-serif;
+  color: white;
+  font-size: 30px;
+}
+.con-sub h1{
+  color: white;
+}
+.con-sub p{
+  font-family: "B612", sans-serif;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
 }
 }
 @media only screen and (max-width: 991px) {
   .navbar-area {
       background-color:  #005fb0 !important;
+      }
+      .con-sub{ 
+        width: 80%;
+        margin: auto;
+      }
+      .con-sub h3{
+        margin-top: 50px;
       }
     }
