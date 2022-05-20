@@ -184,14 +184,14 @@ textarea {
 ======================================================*/
 .default-btn {
   background-color: transparent;
-  color: #111111;
+  color: white;
   font-size: 16px;
   padding: 13px 30px;
   border-radius: 30px;
   position: relative;
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
-  border: 1px solid #005fb0;
+  border: 1px solid white;
   z-index: 1;
 }
 
@@ -212,13 +212,13 @@ textarea {
 }
 
 .default-btn.active {
-  background-color: #005fb0;
+  background-color: #000000;
   color: #ffffff;
 }
 
 .default-btn.active:hover {
-  background-color: #111111;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: rgb(255, 255, 255);
 }
 
 .default-btn:hover {
@@ -477,7 +477,7 @@ Navbar Area Style
 }
 
 .nav-bg-1 {
-  background-color: #ffffff;
+  background-color: blue;
 }
 
 .desktop-nav {
@@ -510,7 +510,7 @@ Navbar Area Style
 
 .desktop-nav .navbar .navbar-nav .nav-item a {
   font-size: 16px;
-  color: #1b2336;
+  color: white;
   line-height: 1;
   position: relative;
   font-weight: 600;
@@ -560,7 +560,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item:hover a, .desktop-nav .navbar .navbar-nav .nav-item:focus a, .desktop-nav .navbar .navbar-nav .nav-item.active a {
-  color: #005fb0;
+  color: blue;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu {
@@ -587,7 +587,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a {
-  color: #1b2336;
+  color: white;
   padding: 15px;
   border-bottom: 1px dashed #ededed;
   margin: 0;
@@ -613,7 +613,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu {
@@ -648,7 +648,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -664,7 +664,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -680,7 +680,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -696,7 +696,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -742,7 +742,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -752,7 +752,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -762,7 +762,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -772,7 +772,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li:hover .dropdown-menu {
@@ -782,7 +782,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #005fb0;
+  color: white;
 }
 
 .desktop-nav .navbar .navbar-nav .nav-item .dropdown-menu li:hover .dropdown-menu {
@@ -830,7 +830,7 @@ Navbar Area Style
 .desktop-nav .navbar .others-options ul li .call-now i {
   position: absolute;
   font-size: 40px;
-  color: #005fb0;
+  color: white;
   left: 0;
   top: 2px;
 }
@@ -840,7 +840,7 @@ Navbar Area Style
 }
 
 .desktop-nav .navbar .others-options ul li .call-now a {
-  color: #111111;
+  color: white;
   font-weight: 500;
 }
 
@@ -959,7 +959,7 @@ Others Option For Responsive Area Style
 }
 
 .others-option-for-responsive .others-options ul li .call-now a {
-  color: #111111;
+  color: white;
   font-weight: 500;
 }
 
@@ -5377,10 +5377,10 @@ Go To Top Style
       width: 35px;
       height: 30px;
       padding-top: 5px;
-      color: #005fb0 !important;
+      color: white !important;
 }
 span {
-  background: #005fb0 !important;
+  background: white !important;
   height: 4px;
   margin-top: -6px;
   border-radius: 0;
@@ -5388,3 +5388,8 @@ span {
   top: 8px;
 }
 }
+@media only screen and (max-width: 991px) {
+  .navbar-area {
+      background-color:  #005fb0 !important;
+      }
+    }
